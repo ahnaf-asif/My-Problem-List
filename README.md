@@ -24,7 +24,7 @@ Problems are not sorted. They have different difficulties and different categori
 |  18 | [Design Tutorial: Inverse the Problem](https://codeforces.com/problemset/problem/472/D) | NO |
 |  19 | [Array Division](https://codeforces.com/problemset/problem/808/D) | NO |
 |  20 | [Tree Generator™](https://codeforces.com/contest/1149/problem/C) | NO |
-|  21 | not added yet | NO |
+|  21 | [Something with XOR queries](https://codeforces.com/problemset/problem/872/D) | NO |
 |  22 | not added yet | NO |
 |  23 | not added yet | NO |
 |  24 | not added yet | NO |
