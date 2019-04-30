@@ -12,7 +12,7 @@ Problems are not sorted. They have different difficulties and different categori
 |  6 | [Palindrome in a Tree](https://www.spoj.com/problems/PLNDTREE/) | NO |
 |  7 | [loj-Points in Rectangle (II)](http://lightoj.com/volume_showproblem.php?problem=1267) | NO |
 |  8 | [KQUERYO](https://www.spoj.com/problems/KQUERYO/) | NO |
-|  9 | [ORDERSET](https://www.spoj.com/problems/ORDERSET/) | NO |
+|  9 | [ORDERSET](https://www.spoj.com/problems/ORDERSET/) | YES |
 |  10 | [DQUERY](https://www.spoj.com/problems/DQUERY/) | NO |
 |  11 | [Serval and Rooted Tree](https://codeforces.com/problemset/problem/1153/D) | NO |
 |  12 | [Good Substrings](https://codeforces.com/problemset/problem/271/D) | NO |
