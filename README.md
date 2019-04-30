@@ -25,10 +25,10 @@ Problems are not sorted. They have different difficulties and different categori
 |  19 | [Array Division](https://codeforces.com/problemset/problem/808/D) | NO |
 |  20 | [Tree Generator™](https://codeforces.com/contest/1149/problem/C) | NO |
 |  21 | [Something with XOR queries](https://codeforces.com/problemset/problem/872/D) | NO |
-|  22 | not added yet | NO |
-|  23 | not added yet | NO |
-|  24 | not added yet | NO |
-|  25 | not added yet | NO |
+|  22 | [Glad To See You](https://codeforces.com/problemset/problem/810/D) | NO |
+|  23 | [Ithea Plays With Chtholly](https://codeforces.com/problemset/problem/897/D) | NO |
+|  24 | [Upgrading the Tree](https://codeforces.com/problemset/problem/844/E) | NO |
+|  25 | [Mahmoud and Ehab and the binary string](https://codeforces.com/problemset/problem/862/D) | NO |
 |  26 | not added yet | NO |
 |  27 | not added yet | NO |
 |  28 | not added yet | NO |
