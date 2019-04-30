@@ -5,11 +5,11 @@ Problems are not sorted. They have different difficulties and different categori
 | index       | problem name    | solved ?     |
 | :------------- | :----------: | -----------: |
 |  1 | [Beautiful Array](https://codeforces.com/problemset/problem/1155/D)   | NO    |
-|  2 | [spoj-XXXXXXXX](https://www.spoj.com/problems/XXXXXXXX/) | NO |
-|  3 | [codechef-QREXT](https://www.codechef.com/problems/QRECT) | NO |
-|  4 | [spoj-BDOI16E](https://www.spoj.com/problems/BDOI16E/) | NO |
-|  5 | [spoj-SWAPS](https://www.spoj.com/problems/SWAPS/) | NO |
-|  6 | [spoj-PLNDTREE](https://www.spoj.com/problems/PLNDTREE/) | NO |
+|  2 | [Sum of Distinct Numbers](https://www.spoj.com/problems/XXXXXXXX/) | NO |
+|  3 | [Rectangle Query](https://www.codechef.com/problems/QRECT) | NO |
+|  4 | [BDOI16E - Village Fair](https://www.spoj.com/problems/BDOI16E/) | NO |
+|  5 | [Counting inversions](https://www.spoj.com/problems/SWAPS/) | NO |
+|  6 | [Palindrome in a Tree](https://www.spoj.com/problems/PLNDTREE/) | NO |
 |  7 | [loj-Points in Rectangle (II)](http://lightoj.com/volume_showproblem.php?problem=1267) | NO |
 |  8 | [KQUERYO](https://www.spoj.com/problems/KQUERYO/) | NO |
 |  9 | [ORDERSET](https://www.spoj.com/problems/ORDERSET/) | NO |
