@@ -4,7 +4,7 @@ Problems are not sorted. They have different difficulties and different categori
 
 | index       | problem name    | solved ?     |
 | :------------- | :----------: | -----------: |
-|  1 | [codeforces 1155D](https://codeforces.com/problemset/problem/1155/D)   | NO    |
+|  1 | [Beautiful Array](https://codeforces.com/problemset/problem/1155/D)   | NO    |
 |  2 | [spoj-XXXXXXXX](https://www.spoj.com/problems/XXXXXXXX/) | NO |
 |  3 | [codechef-QREXT](https://www.codechef.com/problems/QRECT) | NO |
 |  4 | [spoj-BDOI16E](https://www.spoj.com/problems/BDOI16E/) | NO |
