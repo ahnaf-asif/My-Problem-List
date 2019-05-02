@@ -17,7 +17,7 @@ Problems are not sorted. They have different difficulties and different categori
 |  11 | [Serval and Rooted Tree](https://codeforces.com/problemset/problem/1153/D) | NO |
 |  12 | [Good Substrings](https://codeforces.com/problemset/problem/271/D) | NO |
 |  13 | [Gargari and Permutations](https://codeforces.com/problemset/problem/463/D) | NO |
-|  14 | [Distance in Tree](https://codeforces.com/problemset/problem/161/D) | NO |
+|  14 | [Distance in Tree](https://codeforces.com/problemset/problem/161/D) | YES |
 |  15 | [Little Elephant and Array](https://codeforces.com/problemset/problem/220/B) | NO |
 |  16 | [Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D) | NO |
 |  17 | [Kefa and Dishes](https://codeforces.com/problemset/problem/580/D) | NO |
