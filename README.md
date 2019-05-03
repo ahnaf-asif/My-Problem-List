@@ -4,7 +4,7 @@ Problems are not sorted. They have different difficulties and different categori
 
 | index       | problem name    | solved ?     |
 | :------------- | :----------: | -----------: |
-|  1 | [Beautiful Array](https://codeforces.com/problemset/problem/1155/D)   | NO    |
+|  1 | [Beautiful Array](https://codeforces.com/problemset/problem/1155/D)   | YES    |
 |  2 | [Sum of Distinct Numbers](https://www.spoj.com/problems/XXXXXXXX/) | NO |
 |  3 | [Rectangle Query](https://www.codechef.com/problems/QRECT) | NO |
 |  4 | [BDOI16E - Village Fair](https://www.spoj.com/problems/BDOI16E/) | NO |
